@@ -1,0 +1,12 @@
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.dll
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.xml
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CopyComplete
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+C:\Users\GIGA\Pictures\Quiz_Dự Án Mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
